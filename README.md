@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-🔭 I’m currently working as a Software/ML engineer at Camcloud. Our product helps people and organizations to easily stream their security cameras to cloud, so they can monitor it through a browser or mobile app. We also do some machine learning tasks on those streams so they can gain some insights, motion detection, object detection, or 24/7 analysis. These types of stuff. Our main challenge is scale it up without ending up with crazy AWS bills.  
+🔭 I’m currently working as a Software/ML engineer at Camcloud. Our product helps people and companies to easily stream their security cameras to cloud which allows them to store and retrieve videos whenever they need it. We also do some machine learning tasks on those streams so they can gain some insights from their own data.
 
 ## A few facts about me:
 
