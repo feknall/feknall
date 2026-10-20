@@ -4,7 +4,7 @@ Software & Machine Learning Engineer in Ontario, Canada. I build production ML s
 
 - 🎥 **Video AI in production:** streaming detection and tracking on live camera feeds (GStreamer, NVIDIA DeepStream)
 - ⚙️ **Infrastructure:** Python, Kotlin/Java, Docker, AWS (ECS), Redis, MySQL
-- 🔐 **Research background:** privacy-preserving federated learning (M.Sc.)
+- 🔐 **Research background:** privacy-preserving federated learning, University of Windsor
 
 ### Featured
 - [**FedShare**](https://github.com/feknall/FedShare): secure aggregation for federated learning using additive secret sharing ([paper, ACM](https://dl.acm.org/doi/10.1145/3589462.3589504))
